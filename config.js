@@ -141,4 +141,4 @@ fs.watchFile(file, () => { fs.unwatchFile(file);console.log(`Update'${__filename
   //read_status: process.env.AUTO_READ_STATUS || "false",
   //save_status: process.env.AUTO_SAVE_STATUS || "false",
   //aitts_Voice_Id : process.env.AITTS_ID || "37",
-  //ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY  || "",
+  //ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY  || ""
